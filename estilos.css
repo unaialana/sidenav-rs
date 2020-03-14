@@ -1,0 +1,34 @@
+.sidenav-sn a {
+    position: absolute;
+    left: -80px;
+    transition: 0.3s;
+    padding: 15px;
+    width: 100px;
+    text-decoration: none;
+    font-size: 35px;
+    color: white;
+    border-radius: 0 5px 5px 0;
+    margin-top: 250px;
+}
+
+.sidenav-sn a:hover {
+    left: 0;
+}
+
+  #instagram {
+    top: 80px;
+    background-color: #2196F3;
+    text-align: center;
+  }
+  
+  #twitter {
+    top: 140px;
+    background-color: #f44336;
+    text-align: center; 
+  }
+  
+  #github {
+    top: 200px;
+    background-color: #555;
+    text-align: center; 
+  }
