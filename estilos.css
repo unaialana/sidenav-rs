@@ -15,15 +15,15 @@
     left: 0;
 }
 
-  #instagram {
+ #instagram {
     top: 80px;
-    background-color: #2196F3;
+    background-color:#DD2A7B;
     text-align: center;
   }
   
   #twitter {
     top: 140px;
-    background-color: #f44336;
+    background-color: #2196F3;
     text-align: center; 
   }
   
